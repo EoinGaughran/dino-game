@@ -21,6 +21,7 @@ body {
 .score {
     position: absolute;
     font-size: 3vmin;
+    font: 1em courier;
     right: 1vmin;
 }
 
